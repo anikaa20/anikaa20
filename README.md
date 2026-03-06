@@ -18,24 +18,9 @@ I'm a **Data Professional** passionate about solving real-world problems using *
 
 ---
 
-## 📁 Featured Projects
-### 🔹 Data-Pilot: Terminal-first Data Science Copilot
-An automated analysis agent with a curated toolbelt and reproducible workspace.
-
-### 🔹 Machine Learning Projects
-- Predictive modelling & classification systems
-- Exploratory data analysis with real-world datasets
-- Automated reporting and analytics dashboards
-
-### 🔹 AI Agents & Automation
-- Lightweight agent systems for repetitive workflows
-- Integrations with APIs and data services
-
----
-
 ## 📫 Connect with Me
 - 💼 LinkedIn: *https://www.linkedin.com/in/anika-saxena20/*  
-- 📧 Email: *anikasaxena0804@ggmail.com*
+- 📧 Email: *anikasaxena0804@gmail.com*
 
 
 

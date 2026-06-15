@@ -1,13 +1,14 @@
 <!-- --------------------------------Header Section Sarts ------------------------------- -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anika%20Saxena&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data Analytics%20%7C%20Business Intelligence%20%7C%20Data%20Scientist%20%7C%20ML%20Researcher&descAlignY=55&descSize=16"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=060b14,111827&amp;height=200&amp;section=header&amp;text=Anika%20Saxena&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20Scientist%20%7C%20ML%20Researcher&amp;descAlignY=55&amp;descSize=16"/>
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Analytics+%7C+Business+Intelligence+%7C+Impact+%F0%9F%93%8A;Machine+Learning+%7C+Statistics+%7C+SQL+%F0%9F%A7%A0;Hypothesis+%E2%86%92+Analysis+%E2%86%92+Recommendation+%F0%9F%93%88;Patterns.+Predictions.+Impact.+%E2%9C%A6;Coffee+%E2%86%92+Code+%E2%86%92+Insights+%E2%98%95;ML+%C3%97+Finance+%E2%80%94+Math+Markets+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+ 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anikasaxena0804@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anikaa20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anika-saxena20/)
+
 <h4 align="center">📊 Data is my playground. Business growth is the scorecard.</h4>
 </div>
 <!-- -------------------------------------------- Header section ends here------------------------------------------------ -->

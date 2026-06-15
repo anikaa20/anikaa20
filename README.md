@@ -1,26 +1,19 @@
-# Hi there, I'm Anika 👋
+# 💫 About Me:
+# 📊 Data is my playground. Business growth is the scorecard.<br><br>Most people look at a massive, messy dataset and see a headache. I see a puzzle waiting to be solved. I specialize in the entire lifecycle of data—obsessing over meticulous cleaning and preprocessing to ensure absolute data integrity, before spinning that clean data into interactive, high-impact **Business Intelligence  frameworks** that drive corporate strategy. <br><br>To keep things moving at lightning speed, I leverage **Machine Learning models** and custom **AI automation agents** to eliminate manual drag and let the data speak for itself.<br><br>### 🧠 The Core Blueprint<br><br>* 🔭 **I’m currently working on:** Extracting high-value, non-obvious insights from complex datasets, mapping those discoveries directly to operational performance metrics and bottom-line business impact.<br>* 👯 **I’m looking to collaborate on:** Full-scale business analytics initiatives where data storytelling directly impacts the bottom line.<br>* 🤝 **I’m looking for help with:** Scaling data governance frameworks across cross-functional teams to bridge the gap between analytics and product management.<br>* 🌱 **I’m currently learning:** Advanced quantitative risk modeling and market evaluation methodologies.<br>* 💬 **Ask me about:** SQL query optimization, Python-driven data wrangling, efficient predictive modeling, and deploying AI agents to simplify complex analysis projects.<br>* ⚡ **Fun fact:** In my free time, I take my analytical mindset straight to the **equity markets**—decoding stock trends, building quantitative portfolio analyzers, and hunting for alpha.
 
-## 🚀 About Me
-I'm a **Data Professional** passionate about solving real-world problems using **Machine Learning**, **Analytics**, and **AI-driven automation**. I enjoy building robust data pipelines, intelligent agents, and analytical systems that turn raw data into insights.
 
-- 🔭 Currently exploring advanced **ML systems**, **data engineering workflows**, **EDA** and **data handling techniques** 
-- 🌱 Learning more about **deep learning**, **Financial markets** and **Quant Anallysis**
-- 💡 Interested in **fintech**, **quant research**, and **intelligent trading systems**
-- 📊 Skilled in **Python**, **SQL**, **Data handling**, and developing **predictive models**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anika-saxena20/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anikasaxena0804@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anikaa20&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anikaa20&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anikaa20&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL, R
-**Tools:** Power BI, Excel, Jupyter, VS Code  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-**Other:** Data Pipelines, FAST APIs, Machine Learning, Data Visualization
 
----
 
-## 📫 Connect with Me
-- 💼 LinkedIn: *https://www.linkedin.com/in/anika-saxena20/*  
-- 📧 Email: *anikasaxena0804@gmail.com*
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
